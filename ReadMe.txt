@@ -13,8 +13,6 @@
 - NumericUpDown - установка будильника
 - Button	- кнопки для смены темы и запуска/остановки будильника
 
-P.S. Все исходные картинки лежат в папке "resources" и ее надо добавить в папку, где лежит проект "C:\Users\you\TheClock\x64\Debug\"
-
 ----------------------------------------
 В файле MyForm.h
 ----------------------------------------
@@ -78,3 +76,6 @@ void InitializeComponent(void)
 
 Где cbDarkTheme_CheckedChanged() и cbLightTheme_CheckedChanged() - смена темы, а
 button2_Click() и button3_Click() 			     - замена иконки циферблата часов
+
+ХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХХ
+P.S. Все исходные картинки лежат в папке "resources" и ее надо добавить в папку, где лежит проект "C:\Users\you\TheClock\x64\Debug\"
